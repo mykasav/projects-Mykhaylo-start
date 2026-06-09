@@ -1,3 +1,4 @@
+
 import random
 class guessNR:
     def gerarnr(self):
@@ -29,6 +30,4 @@ class guessNR:
 jogo=guessNR()
 
 jogo.iniciar()
-
-        
     
